@@ -6,6 +6,4 @@ echo "My Name is Doaa" > draft.txt
  mv draft_backup.txt final_report.txt
  touch temp.tmp
  rm temp.tmp
- chmod +x manages_files.sh 
- ./manage_files.sh > run_log.txt
- cat run_log.txt
+ 
