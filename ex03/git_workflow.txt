@@ -6,10 +6,3 @@
    - git commit -m "Add README.md and SSH public key for ex03"
 4. Push:
    - git push origin main
---------------------------------------------------
-[Actual Commit History / Git Log Reference]:
-commit 1e98895075a0d72c4a234b05e87a3bf87f94bf21
-Author: doaaestity-blip <doaaestity@gmail.com>
-Date:   Sat Oct 3 20:25:02 2026 +0300
-
-    Add README.md and SSH public key for ex03
